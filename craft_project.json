@@ -4,6 +4,9 @@
   },
   {
     "homeUrl": "",
-    "description": ""
+    "description": "",
+    "actionLibraries": {
+      "google": true
+    }
   }
 ]
